@@ -1,0 +1,148 @@
+.m_body {
+  width: 1258px;
+}
+.m_body a {
+  text-decoration: none;
+}
+.m_body .top-a {
+  margin-top: 15px;
+}
+.m_body .top-a a {
+  color: #4b463e;
+}
+.m_body .bt {
+  padding: 30px 0;
+  color: #364c52;
+}
+.m_body .box1 {
+  height: 590px;
+  width: 100%;
+  margin-top: 30px;
+  position: relative;
+  overflow: hidden;
+  background: url(../image/img1/s579d656868e26.png) repeat;
+}
+.m_body .box1 .box1-l {
+  position: absolute;
+  left: 68px;
+  top: 105px;
+  width: 925px;
+}
+.m_body .box1 .box1-l .box1-l-bt {
+  color: #fffefb;
+}
+.m_body .box1 .box1-l p {
+  text-indent: 2em;
+  color: #fff;
+  font-size: 14px;
+  line-height: 1.5;
+  margin-top: 20px;
+}
+.m_body .box1 .box1-l .list {
+  margin-top: 45px;
+  overflow: hidden;
+  margin-bottom: 40px;
+}
+.m_body .box1 .box1-l .list a {
+  display: block;
+  width: 90px;
+  height: 72px;
+  float: left;
+  text-align: center;
+  color: #fff;
+  font-size: 20px;
+  padding-top: 18px;
+  margin-right: 10px;
+}
+.m_body .box1 .box1-l .list a span {
+  display: block;
+  padding-top: 27px;
+  background: url(../image/img1/img6.png) center top no-repeat;
+}
+.m_body .box1 .box1-l .dt {
+  float: left;
+  width: 90px;
+}
+.m_body .box1 .box1-l .dt img {
+  border: 0;
+  outline: 0;
+  vertical-align: middle;
+  max-width: 100%;
+  max-height: 100%;
+}
+.m_body .box1 .box1-l .dt span {
+  color: #fff;
+  display: block;
+  text-align: center;
+  font-size: 19px;
+}
+.m_body .box1 .box1-m {
+  width: 167px;
+  height: 185px;
+  position: absolute;
+  top: 155px;
+  right: 63px;
+  z-index: 1;
+}
+.m_body .box1 .box1-m img {
+  border: 0;
+  outline: 0;
+  vertical-align: middle;
+  max-width: 100%;
+  max-height: 100%;
+}
+.m_body .box1 .box1-r {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
+.m_body .box2 {
+  position: relative;
+  width: 720px;
+  margin-top: 50px;
+}
+.m_body .box2 .div1 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 628px;
+  height: 240px;
+  background: #f4f4f4;
+}
+.m_body .box2 .div1 .img {
+  position: absolute;
+  top: 50%;
+  margin-top: -100px;
+  left: 30px;
+  height: 200px;
+  line-height: 200px;
+  width: 168px;
+}
+.m_body .box2 .div1 .img img {
+  border: 0;
+  outline: 0;
+  vertical-align: middle;
+  max-width: 100%;
+  max-height: 100%;
+}
+.m_body .box2 .div1 .text {
+  padding: 35px 0 35px 198px;
+  margin: 26px 30px;
+}
+.m_body .box2 .div1 .text .box2-bt {
+  color: #474747;
+}
+.m_body .box2 .div1 .text p {
+  font-size: 14px;
+  color: #474747;
+  line-height: 1.5;
+  margin: 24px 0 0 0;
+}
+.m_body .box2 .div2 {
+  position: absolute;
+  left: 0;
+  top: 240px;
+  width: 628px;
+  height: 480px;
+  background: #2a2920;
+}
